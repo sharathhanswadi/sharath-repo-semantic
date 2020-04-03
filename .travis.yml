@@ -35,5 +35,5 @@ language: java
 notifications:
   email: false
 script:
-  - mvn clean install
+ # - mvn clean install
 sudo: false
